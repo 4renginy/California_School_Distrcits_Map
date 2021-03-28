@@ -4,7 +4,7 @@ The purpose of this project is to create CA map with all the school districts wi
 
 1- Data;
 The data has been pulled out from ;
-https://gis.data.ca.gov/datasets/e9476c422f0842a7a38652aaf4c7597c_0/geoservice?geometry=-129.601%2C36.267%2C-111.331%2C39.305 
+<br>https://gis.data.ca.gov/datasets/e9476c422f0842a7a38652aaf4c7597c_0/geoservice?geometry=-129.601%2C36.267%2C-111.331%2C39.305 
 
 
 
